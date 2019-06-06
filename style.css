@@ -1,0 +1,72 @@
+body{
+	background:url("img/1.jpg")no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 1260px;
+	height: 400px;
+	
+}
+
+
+.pedro{
+	text-align: center;
+	height:80px;
+background-color: #4C643A;
+}
+.david{
+	text-align: center;
+     color: white;
+     font-family:´Rammetto One´, cursive;
+     font-size:25px;
+     text-align: center;
+     position: absolute;
+     left: 45%;
+}
+
+.nombres{
+	padding:1%;
+	font-family: cursive;
+	border:6px solid white;
+	text-align:center;
+	font-weight:bolder;
+	font-size:21px;
+	color: black !important;
+}
+.bb{
+	height:100%;
+}
+.pad{
+	padding:4%;
+}
+.imgPoke{
+	width:250px;
+	margin:0 auto;
+}
+/*01111001 01110101 01101100 01100101 01101001 01110011 01111001*/
+.l{
+	display:flex;
+	align-items:center;
+	justify-content:center;background-attachment: fixed;
+}
+.pokeinfo{
+	border:6px solid #52A21E;
+	height: 400px;
+	width: 250px;
+}
+
+
+
+background:url("img/1.jpg")no-repeat;background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	width: 1300px;
+	height: 400px;
+
+	}
+.juan{
+	width: 100px;
+	position: absolute;
+	top: 100%;
+	left: 45%;
+}
